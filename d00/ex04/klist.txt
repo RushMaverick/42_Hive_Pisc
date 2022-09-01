@@ -1,0 +1,5 @@
+Credentials cache: API:5313
+Principal: rrask@HIVE.FI
+
+  Issued                Expires               Principal
+Aug  9 15:19:20 2022  Aug 10 01:19:20 2022  krbtgt/HIVE.FI@HIVE.FI
